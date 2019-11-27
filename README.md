@@ -12,3 +12,9 @@ Les travaux s'accompliront en trois phases : recherche de solutions technologiqu
 ###Bibliographie :
 
 Technologies de bases de données hébergées sur serveur, Technologies web de dialogue avec serveur distant, en particulier avec une BdD, Technologies de création d'interfaces utilisateurs sur navigateur.
+
+Acteur :
+Bach Loïc
+Mezian Ombredane
+Gaëtan Monvoisin 
+Maxence De Roëck
