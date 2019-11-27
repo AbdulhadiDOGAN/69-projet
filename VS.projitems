@@ -9,6 +9,6 @@
     <Import_RootNamespace>VS</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="$(MSBuildThisFileDirectory)MyClass.cs" />
+    <None Include="$(MSBuildThisFileDirectory)Data.json" />
   </ItemGroup>
 </Project>
