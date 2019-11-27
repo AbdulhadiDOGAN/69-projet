@@ -1,5 +1,16 @@
-﻿
-[{"name":"Maxence","age":23,"language":["Python","Java","VBA","C"]},{"name":"Loic","age":23,"language":["Java","C","C#"]}]
+﻿[
+  {
+    "name": "Maxence",
+    "age": 23,
+    "language": [ "Python", "Java", "VBA", "C" ]
+  },
+  {
+    "name": "Loic",
+    "age": 23,
+    "language": [ "Java", "C", "C#" ]
+  }
+]
+
 
 
 
