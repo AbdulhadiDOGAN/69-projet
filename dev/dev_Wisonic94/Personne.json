@@ -1,0 +1,50 @@
+/* 1 */
+{
+    "_id" : ObjectId("5dd7b11c03ee9c2554a24a20"),
+    "nom" : "Didier",
+    "prenom" : "Jean-Yves",
+    "competences" : [ 
+        "UML", 
+        "Genie logiciel", 
+        "Realite augmentee", 
+        "Java"
+    ],
+    "adresse" : {
+        "rue" : "65 rue des petits four",
+        "ville" : "Evry",
+        "code_postale" : "91000"
+    }
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5dd7b19c03ee9c2554a24a22"),
+    "nom" : "Montagne",
+    "prenom" : "Christophe",
+    "competences" : [ 
+        "Base de donnees", 
+        "C#"
+    ],
+    "adresse" : {
+        "rue" : "84 avenue generale leclerc",
+        "ville" : "Evry",
+        "code_postale" : "91000"
+    }
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5dd7b20f03ee9c2554a24a23"),
+    "nom" : "Sadi",
+    "prenom" : "Jasmine",
+    "competences" : [ 
+        "Java", 
+        "Prototypage virtuel", 
+        "Mathlab"
+    ],
+    "adresse" : {
+        "rue" : "2 rue des damnés",
+        "ville" : "Evry",
+        "code_postale" : "91000"
+    }
+}
