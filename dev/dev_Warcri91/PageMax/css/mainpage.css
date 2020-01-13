@@ -1,0 +1,621 @@
+
+.mainpage {
+  width               : 100%;
+  min-width           : 1491px;
+  height              : 100vh;
+  min-height          : 991px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+textarea:focus, input:focus {
+  outline             : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.mainpage .corps {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -753px;
+  height              : 2237px;
+  width               : 1491px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .corps .drewgrahamsr03vskiegunsplash {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 2237px;
+  width               : 1491px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .corps .composantboutonmainsearchbar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1225px;
+  height              : 48px;
+  width               : 620px;
+  position            : absolute;
+  margin              : 0;
+  left                : 436px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .corps .composantboutonmainsearchbar .rectangle {
+  background-color    : rgba(0, 82, 145, 1.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 620px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .corps .composantboutonmainsearchbar .textrecherche {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 43px;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 43.0px;
+  border              : 0;
+  resize              : none;
+  padding             : 0;
+}
+.mainpage .corps .composantboutonmainsearchbar .textrecherche::placeholder {
+  color               : rgba(255, 255, 255, 0.6);
+}
+.mainpage .corps .composanticonsearchicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1232px;
+  height              : 33px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1011px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .corps .composanticonsearchicon .search {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 33px;
+  width               : 31px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .corps .composanticonsearchicon .search .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 33px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composantpartpp {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 914px;
+  height              : 80px;
+  width               : 1491px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composantpartpp .pieddepage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 80px;
+  width               : 1491px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composantpartpp .pieddepage .rectangle {
+  background-color    : rgba(241, 241, 241, 1.0);
+  top                 : 0px;
+  height              : 80px;
+  width               : 1491px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composantpartpp .pieddepage .universiteevry2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 77px;
+  width               : 180px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composantpartheader {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 1491px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composantpartheader .header {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 1491px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composantpartheader .header .rectangle {
+  background-color    : rgba(0, 48, 85, 1.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 110px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composantpartheader .header .composantimagelogo100 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composantpartheader .header .composantimagelogo100 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composantpartheader .header .composantimagelogo100 .logov1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composantpartheader .header .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composantpartheader .header .rectangle2 {
+  background-color    : rgba(0, 48, 85, 1.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 1381px;
+  position            : absolute;
+  margin              : 0;
+  left                : 110px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composantpartheader .header .composanttexteheadlinemainheader {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 58px;
+  width               : 556px;
+  position            : absolute;
+  margin              : 0;
+  left                : 153px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composantpartheader .header .composanttexteheadlinemainheader .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 556px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composantpartheader .header .composanttexteheadlinemainheader .headline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 40.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 48.0px;
+}
+.mainpage .composantpartheader .header .user {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 39px;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1391px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composantpartheader .header .user .user1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 39px;
+  width               : 42px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composantpartheader .header .user .user1 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 61.54%;
+  width               : 47.62%;
+  position            : absolute;
+  margin              : 0;
+  left                : 26.19%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composantpartheader .header .user .user1 .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 2.56%;
+  height              : 38.46%;
+  width               : 97.62%;
+  position            : absolute;
+  margin              : 0;
+  left                : 1.19%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composantpartheader .header .composanttextemenuheadermainwhite {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : 48px;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 745px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composantpartheader .header .composanttextemenuheadermainwhite .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composantpartheader .header .composanttextemenuheadermainwhite .menu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 43.0px;
+}
+.mainpage .composantpartheader .header .composanttextemenuheadermainwhite1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : 48px;
+  width               : 182px;
+  position            : absolute;
+  margin              : 0;
+  left                : 872px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composantpartheader .header .composanttextemenuheadermainwhite1 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 182px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composantpartheader .header .composanttextemenuheadermainwhite1 .menu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 43.0px;
+}
+.mainpage .composantpartheader .header .composanttextemenuheadermainwhite2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : 48px;
+  width               : 142px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1090px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composantpartheader .header .composanttextemenuheadermainwhite2 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 142px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composantpartheader .header .composanttextemenuheadermainwhite2 .menu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 43.0px;
+}
+.mainpage .composanttexteheadlinemainheaderornage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 58px;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 417px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composanttexteheadlinemainheaderornage .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.mainpage .composanttexteheadlinemainheaderornage .headline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 40.0px;
+  color               : rgba(225, 129, 0, 1.0);
+  text-align          : left;
+  line-height         : 48.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
