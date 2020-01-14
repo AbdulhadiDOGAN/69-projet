@@ -1452,8 +1452,11 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
+
+/* Ajouter */
 .resultpage1 .linegrey .tablelinegrey .tablelinecontainer {
-  background-color    : #E18529;
+  
+  background-color: #ffffff; 
   top                 : 0px;
   height              : 42px;
   width               : 1490px;
@@ -1469,17 +1472,47 @@ div {
 
 td {
  padding-top: 15px;
-  padding-left:50px;
+ 
 }
 
 tr{
+transition: transform .2s;
+}
 
+tr:hover {
+
+transform: scale(1.02);
 }
 
 
 tr:nth-child(odd) {
-    background-color: #ffffff; 
+   background-color    : #E18529;
 }
+
+.Id{
+  padding-left:20px;
+}
+.nom{
+   padding-left:100px;
+}
+
+.prenom{
+    padding-left: 80px;
+}
+
+.labo{
+  padding-right: 80px;
+}
+
+.mail{
+  padding-right: 220px;
+}
+
+a{
+  color : #ffffff;
+}
+
+/* FIN */
 
 
 
