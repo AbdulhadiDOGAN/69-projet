@@ -1,0 +1,1261 @@
+
+
+.adduser {
+  width               : 100%;
+  min-width           : 1490px;
+  height              : 100vh;
+  min-height          : 991px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+textarea:focus, input:focus {
+  outline             : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.adduser .rectangle15 {
+  background-color    : rgba(89, 173, 255, 1.0);
+  top                 : 100px;
+  height              : 811px;
+  width               : 1490px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .drewgrahamsr03vskiegunsplash {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -623px;
+  height              : 2237px;
+  width               : 1491px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .rectangle14 {
+  background-color    : rgba(221, 218, 218, 1.0);
+  top                 : 127px;
+  height              : 759px;
+  width               : 507px;
+  position            : absolute;
+  margin              : 0;
+  left                : 492px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajoutsmall {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 716px;
+  height              : 50px;
+  width               : 104px;
+  position            : absolute;
+  margin              : 0;
+  left                : 586px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajoutsmall .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 104px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajoutsmall .champssmall {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 111px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajoutsmall .champssmall .rectangle12 {
+  background-color    : rgba(232, 240, 249, 1.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 104px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajoutsmall .champssmall .photo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 106px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.adduser .formchampsajoutsmallcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 716px;
+  height              : 50px;
+  width               : 104px;
+  position            : absolute;
+  margin              : 0;
+  left                : 800px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajoutsmallcopy .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 104px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajoutsmallcopy .champssmall {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 111px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajoutsmallcopy .champssmall .rectangle12 {
+  background-color    : rgba(232, 240, 249, 1.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 104px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajoutsmallcopy .champssmall .photo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 106px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.adduser .composantpartpp {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 911px;
+  height              : 80px;
+  width               : 1491px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartpp .pieddepage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 80px;
+  width               : 1491px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartpp .pieddepage .rectangle {
+  background-color    : rgba(241, 241, 241, 1.0);
+  top                 : 0px;
+  height              : 80px;
+  width               : 1491px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartpp .pieddepage .universiteevry2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 77px;
+  width               : 180px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajout {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 236px;
+  height              : 50px;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 585px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajout .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajout .champs {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 326px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajout .champs .rectangle {
+  background-color    : rgba(232, 240, 249, 1.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajout .champs .textnom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 321px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+  border              : 0;
+  resize              : none;
+  padding             : 0;
+}
+.adduser .formchampsajout .champs .textnom::placeholder {
+  color               : rgba(0, 0, 0, 0.6);
+}
+.adduser .ajouterunchercheur {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 137px;
+  height              : auto;
+  width               : 479px;
+  position            : absolute;
+  margin              : 0;
+  left                : 506px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 48.0px;
+  color               : rgba(224, 142, 32, 1.0);
+  text-align          : center;
+  line-height         : 55.0px;
+}
+.adduser .formvalider {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 793px;
+  height              : 60px;
+  width               : 170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 661px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formvalider .valider {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 170px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formvalider .valider .rectangle16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formvalider .valider .valider1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 50px;
+  width               : 162px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.adduser .composantpartheaderother {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 1491px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .header {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 1491px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .header .rectangle3 {
+  background-color    : rgba(0, 48, 85, 1.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 110px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .header .composantimagelogo100 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .header .composantimagelogo100 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .header .composantimagelogo100 .logov1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .header .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .header .rectangle2 {
+  background-color    : rgba(0, 48, 85, 1.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 1381px;
+  position            : absolute;
+  margin              : 0;
+  left                : 110px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .header .user {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 39px;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1391px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .header .user .user1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 39px;
+  width               : 42px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .header .user .user1 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 61.54%;
+  width               : 47.62%;
+  position            : absolute;
+  margin              : 0;
+  left                : 26.19%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .header .user .user1 .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 2.56%;
+  height              : 38.46%;
+  width               : 97.62%;
+  position            : absolute;
+  margin              : 0;
+  left                : 1.19%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .header .composanttextemenuheadermainwhite {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : 48px;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 745px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .header .composanttextemenuheadermainwhite .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .header .composanttextemenuheadermainwhite .menu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 43.0px;
+}
+.adduser .composantpartheaderother .header .composanttextemenuheadermainwhite1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : 48px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 872px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .header .composanttextemenuheadermainwhite1 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .header .composanttextemenuheadermainwhite1 .menu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 43.0px;
+}
+.adduser .composantpartheaderother .header .composanttextemenuheadermainwhite2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : 48px;
+  width               : 133px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1090px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .header .composanttextemenuheadermainwhite2 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 133px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .header .composanttextemenuheadermainwhite2 .menu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 43.0px;
+}
+.adduser .composantpartheaderother .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : 44px;
+  box-sizing          : border-box;
+  width               : 420px;
+  position            : absolute;
+  margin              : 0;
+  left                : 133px;
+  border-radius       : 22px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .composanticonsearchicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 38px;
+  height              : 25px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 512px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .composanticonsearchicon .search {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 25px;
+  width               : 25px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .composanticonsearchicon .search .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 25px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .paddinggroup3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : 48px;
+  width               : 125px;
+  position            : absolute;
+  margin              : 0;
+  left                : 585px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .paddinggroup3 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 125px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .paddinggroup3 .composanttextemenuheadermainwhite {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 125px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .paddinggroup3 .composanttextemenuheadermainwhite .background1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 125px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .composantpartheaderother .paddinggroup3 .composanttextemenuheadermainwhite .menu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 43.0px;
+}
+.adduser .composantpartheaderother .textrecherche {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : 43px;
+  width               : 347px;
+  position            : absolute;
+  margin              : 0;
+  left                : 151px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 43.0px;
+  border              : 0;
+  resize              : none;
+  padding             : 0;
+}
+.adduser .composantpartheaderother .textrecherche::placeholder {
+  color               : rgba(255, 255, 255, 0.6);
+}
+.adduser .formchampsajout1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 316px;
+  height              : 50px;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 585px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajout1 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajout1 .champs {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 326px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajout1 .champs .rectangle {
+  background-color    : rgba(232, 240, 249, 1.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajout1 .champs .textprenom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 321px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+  border              : 0;
+  resize              : none;
+  padding             : 0;
+}
+.adduser .formchampsajout1 .champs .textprenom::placeholder {
+  color               : rgba(0, 0, 0, 0.6);
+}
+.adduser .formchampsajoutcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 396px;
+  height              : 50px;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 585px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajoutcopy .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajoutcopy .champs {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 326px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajoutcopy .champs .rectangle {
+  background-color    : rgba(232, 240, 249, 1.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajoutcopy .champs .textmail {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 321px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+  border              : 0;
+  resize              : none;
+  padding             : 0;
+}
+.adduser .formchampsajoutcopy .champs .textmail::placeholder {
+  color               : rgba(0, 0, 0, 0.6);
+}
+.adduser .formchampsajoutcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 476px;
+  height              : 50px;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 585px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajoutcopy2 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajoutcopy2 .champs {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 326px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajoutcopy2 .champs .rectangle {
+  background-color    : rgba(232, 240, 249, 1.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajoutcopy2 .champs .texttlphone {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 321px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+  border              : 0;
+  resize              : none;
+  padding             : 0;
+}
+.adduser .formchampsajoutcopy2 .champs .texttlphone::placeholder {
+  color               : rgba(0, 0, 0, 0.6);
+}
+.adduser .formchampsajoutcopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 556px;
+  height              : 50px;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 585px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajoutcopy3 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajoutcopy3 .champs {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 326px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajoutcopy3 .champs .rectangle {
+  background-color    : rgba(232, 240, 249, 1.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajoutcopy3 .champs .textlaboratoire {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 321px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+  border              : 0;
+  resize              : none;
+  padding             : 0;
+}
+.adduser .formchampsajoutcopy3 .champs .textlaboratoire::placeholder {
+  color               : rgba(0, 0, 0, 0.6);
+}
+.adduser .formchampsajoutcopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 636px;
+  height              : 50px;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 585px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajoutcopy4 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajoutcopy4 .champs {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 326px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajoutcopy4 .champs .rectangle {
+  background-color    : rgba(232, 240, 249, 1.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.adduser .formchampsajoutcopy4 .champs .textcomptence {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  width               : 321px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Arial", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+  border              : 0;
+  resize              : none;
+  padding             : 0;
+}
+.adduser .formchampsajoutcopy4 .champs .textcomptence::placeholder {
+  color               : rgba(0, 0, 0, 0.6);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-valign-text-middle {
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : center;
+}
