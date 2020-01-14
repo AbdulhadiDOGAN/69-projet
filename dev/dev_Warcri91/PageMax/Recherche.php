@@ -15,7 +15,7 @@
    <div class="search">
       <input type="text" name="toto" class="searchTerm" placeholder="Rechercher par nom">
       <button type="submit" class="searchButton">
-        
+
         <i class="fa fa-search"></i>
      </button>
    </div>
@@ -46,6 +46,7 @@ while($donnees = $resultat->fetch(PDO::FETCH_ASSOC)) {
     $photo[$i] = $donnees['photo'];
     $habilitation[$i] = $donnees['habilitation'];
     $password[$i] = $donnees['password'];
+    $telephone[$i] = $donnees['telephone'];
     $i++;
  
 }
@@ -63,7 +64,8 @@ while($donnees = $resultat->fetch(PDO::FETCH_ASSOC)) {
       <th>mail</th>
       <th>photo</th>
       <th>habilitation</th>
-      <th>password</th>
+     
+      <th>telephone</th>
       <th></th>
       <th></th>
     </tr>
@@ -86,7 +88,7 @@ if(!empty($query))
     echo "<td>$mail[$j] </td>";
     echo "<td>$photo[$j]</td>";
     echo "<td>$habilitation[$j] </td>";
-    echo "<td>$password[$j] </td>";
+    echo "<td>$telephone[$j] </td>";
     echo "<td><a href=\"update_bdd_pdo_form.php?id_utilisateur=$id_utilisateur[$j]&nom=$nom[$j]&prenom=$prenom[$j]&laboratoire=$laboratoire[$j]&mail=$mail[$j]&photo=$photo[$j]&habilitation=$habilitation[$j]&password=$password[$j]\"> Modifier </a></td>";
     echo "<td> <a href=\"confirm_supp.php?id_utilisateur=$id_utilisateur[$j]\"> Supprimer </a> </td>";
     echo "</tr>";

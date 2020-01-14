@@ -1,5 +1,14 @@
 
-.mainpage {
+
+.anima-overlay {
+  position            : absolute;
+  opacity             : 0;
+  display             : none;
+  top                 : 0;
+  width               : 100%;
+  height              : 100%;
+}
+.bp1-mainpage {
   width               : 100%;
   min-width           : 1491px;
   height              : 100vh;
@@ -29,7 +38,84 @@ textarea:focus, input:focus {
 div {
   -webkit-text-size-adjust: none;
 }
-.mainpage .corps {
+.bp1-anima-animate-enter {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : bp1-anima-animate-enter-frames 2s ease-in-out 1 normal forwards;
+  -moz-animation      : bp1-anima-animate-enter-frames 2s ease-in-out 1 normal forwards;
+  -o-animation        : bp1-anima-animate-enter-frames 2s ease-in-out 1 normal forwards;
+  animation           : bp1-anima-animate-enter-frames 2s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes bp1-anima-animate-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes bp1-anima-animate-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes bp1-anima-animate-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes bp1-anima-animate-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.bp1-mainpage .bp1-corps {
   background-color    : rgba(255,255,255,0.0);
   top                 : -753px;
   height              : 2237px;
@@ -41,7 +127,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .corps .drewgrahamsr03vskiegunsplash {
+.bp1-mainpage .bp1-corps .bp1-drewgrahamsr03vskiegunsplash {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 2237px;
@@ -53,7 +139,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .corps .composantboutonmainsearchbar {
+.bp1-mainpage .bp1-corps .bp1-composantboutonmainsearchbar {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1225px;
   height              : 48px;
@@ -65,7 +151,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .corps .composantboutonmainsearchbar .rectangle {
+.bp1-mainpage .bp1-corps .bp1-composantboutonmainsearchbar .bp1-rectangle {
   background-color    : rgba(0, 82, 145, 1.0);
   top                 : 0px;
   height              : 48px;
@@ -78,14 +164,14 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .corps .composantboutonmainsearchbar .textrecherche {
+.bp1-mainpage .bp1-corps .bp1-composantboutonmainsearchbar .bp1-textrecherche {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
+  top                 : 3px;
   height              : 43px;
-  width               : 177px;
+  width               : 527px;
   position            : absolute;
   margin              : 0;
-  left                : 22px;
+  left                : 16px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -98,10 +184,10 @@ div {
   resize              : none;
   padding             : 0;
 }
-.mainpage .corps .composantboutonmainsearchbar .textrecherche::placeholder {
+.bp1-mainpage .bp1-corps .bp1-composantboutonmainsearchbar .bp1-textrecherche::placeholder {
   color               : rgba(255, 255, 255, 0.6);
 }
-.mainpage .corps .composanticonsearchicon {
+.bp1-mainpage .bp1-corps .bp1-composanticonsearchicon {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1232px;
   height              : 33px;
@@ -113,7 +199,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .corps .composanticonsearchicon .search {
+.bp1-mainpage .bp1-corps .bp1-composanticonsearchicon .bp1-search {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 33px;
@@ -125,7 +211,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .corps .composanticonsearchicon .search .shape {
+.bp1-mainpage .bp1-corps .bp1-composanticonsearchicon .bp1-search .bp1-shape {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 33px;
@@ -136,8 +222,9 @@ div {
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  cursor:pointer;
 }
-.mainpage .composantpartpp {
+.bp1-mainpage .bp1-composantpartpp {
   background-color    : rgba(255,255,255,0.0);
   top                 : 914px;
   height              : 80px;
@@ -149,7 +236,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .composantpartpp .pieddepage {
+.bp1-mainpage .bp1-composantpartpp .bp1-pieddepage {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 80px;
@@ -161,7 +248,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .composantpartpp .pieddepage .rectangle {
+.bp1-mainpage .bp1-composantpartpp .bp1-pieddepage .bp1-rectangle {
   background-color    : rgba(241, 241, 241, 1.0);
   top                 : 0px;
   height              : 80px;
@@ -173,7 +260,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .composantpartpp .pieddepage .universiteevry2 {
+.bp1-mainpage .bp1-composantpartpp .bp1-pieddepage .bp1-universiteevry2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 77px;
@@ -185,7 +272,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .composantpartheader {
+.bp1-mainpage .bp1-header {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 100px;
@@ -197,7 +284,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .composantpartheader .header {
+.bp1-mainpage .bp1-header .bp1-header1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 100px;
@@ -209,11 +296,11 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .composantpartheader .header .rectangle {
+.bp1-mainpage .bp1-header .bp1-header1 .bp1-rectangle {
   background-color    : rgba(0, 48, 85, 1.0);
   top                 : 0px;
-  height              : 100px;
-  width               : 110px;
+  height              : 100%;
+  width               : 7.38%;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -221,20 +308,32 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .composantpartheader .header .composantimagelogo100 {
+.bp1-mainpage .bp1-header .bp1-header1 .bp1-composantimagelogo100 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 100px;
-  width               : 87px;
+  height              : 100%;
+  width               : 5.84%;
   position            : absolute;
   margin              : 0;
-  left                : 9px;
+  left                : 0.60%;
   overflow            : hidden;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .composantpartheader .header .composantimagelogo100 .background {
+.bp1-mainpage .bp1-header .bp1-header1 .bp1-composantimagelogo100 .bp1-background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-mainpage .bp1-header .bp1-header1 .bp1-composantimagelogo100 .bp1-logov1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 100px;
@@ -246,60 +345,48 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .composantpartheader .header .composantimagelogo100 .logov1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 100px;
-  width               : 87px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.mainpage .composantpartheader .header .rectangle1 {
+.bp1-mainpage .bp1-header .bp1-header1 .bp1-rectangle1 {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
-  height              : 100px;
-  width               : 2px;
+  height              : 100%;
+  width               : 0px;
   position            : absolute;
   margin              : 0;
-  left                : 108px;
+  left                : 7.24%;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .composantpartheader .header .rectangle2 {
+.bp1-mainpage .bp1-header .bp1-header1 .bp1-rectangle2 {
   background-color    : rgba(0, 48, 85, 1.0);
+  right               : 0px;
   top                 : 0px;
-  height              : 100px;
-  width               : 1381px;
+  height              : 100%;
+  width               : 92.62%;
   position            : absolute;
   margin              : 0;
-  left                : 110px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .composantpartheader .header .composanttexteheadlinemainheader {
+.bp1-mainpage .bp1-header .bp1-header1 .bp1-composanttexteheadlinemainheader {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 21px;
+  top                 : calc(50.00% - 29px);
   height              : 58px;
-  width               : 556px;
+  width               : 37.29%;
   position            : absolute;
   margin              : 0;
-  left                : 153px;
+  left                : 10.26%;
   overflow            : hidden;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .composantpartheader .header .composanttexteheadlinemainheader .background {
+.bp1-mainpage .bp1-header .bp1-header1 .bp1-composanttexteheadlinemainheader .bp1-background {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 58px;
-  width               : 556px;
+  height              : 100%;
+  width               : 100%;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -307,11 +394,11 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .composantpartheader .header .composanttexteheadlinemainheader .headline {
+.bp1-mainpage .bp1-header .bp1-header1 .bp1-composanttexteheadlinemainheader .bp1-headline {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : auto;
-  width               : auto;
+  height              : 48px;
+  width               : 38.85%;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -324,19 +411,19 @@ div {
   text-align          : left;
   line-height         : 48.0px;
 }
-.mainpage .composantpartheader .header .user {
+.bp1-mainpage .bp1-header .bp1-header1 .bp1-user {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 30px;
-  height              : 39px;
-  width               : 42px;
+  right               : 3.89%;
+  top                 : 30.50%;
+  height              : 39.00%;
+  width               : 2.82%;
   position            : absolute;
   margin              : 0;
-  left                : 1391px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .composantpartheader .header .user .user1 {
+.bp1-mainpage .bp1-header .bp1-header1 .bp1-user .bp1-user1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 39px;
@@ -348,7 +435,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .composantpartheader .header .user .user1 .shape {
+.bp1-mainpage .bp1-header .bp1-header1 .bp1-user .bp1-user1 .bp1-shape {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 61.54%;
@@ -360,7 +447,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .composantpartheader .header .user .user1 .shape1 {
+.bp1-mainpage .bp1-header .bp1-header1 .bp1-user .bp1-user1 .bp1-shape1 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 2.56%;
   height              : 38.46%;
@@ -372,24 +459,24 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .composantpartheader .header .composanttextemenuheadermainwhite {
+.bp1-mainpage .bp1-header .bp1-header1 .bp1-composanttextemenuheadermainwhite {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 26px;
+  right               : 42.99%;
+  top                 : calc(50.00% - 24px);
   height              : 48px;
-  width               : 105px;
+  width               : 7.04%;
   position            : absolute;
   margin              : 0;
-  left                : 745px;
   overflow            : hidden;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .composantpartheader .header .composanttextemenuheadermainwhite .background {
+.bp1-mainpage .bp1-header .bp1-header1 .bp1-composanttextemenuheadermainwhite .bp1-background {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 48px;
-  width               : 105px;
+  height              : 100%;
+  width               : 100%;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -397,11 +484,11 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .composantpartheader .header .composanttextemenuheadermainwhite .menu {
+.bp1-mainpage .bp1-header .bp1-header1 .bp1-composanttextemenuheadermainwhite .bp1-menu {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 4px;
-  height              : auto;
-  width               : auto;
+  bottom              : 2.08%;
+  height              : 43px;
+  width               : 79.05%;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -414,24 +501,24 @@ div {
   text-align          : left;
   line-height         : 43.0px;
 }
-.mainpage .composantpartheader .header .composanttextemenuheadermainwhite1 {
+.bp1-mainpage .bp1-header .bp1-header1 .bp1-composanttextemenuheadermainwhite1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 26px;
-  height              : 48px;
-  width               : 182px;
+  right               : 29.31%;
+  top                 : 26.00%;
+  height              : 48.00%;
+  width               : 12.21%;
   position            : absolute;
   margin              : 0;
-  left                : 872px;
   overflow            : hidden;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .composantpartheader .header .composanttextemenuheadermainwhite1 .background {
+.bp1-mainpage .bp1-header .bp1-header1 .bp1-composanttextemenuheadermainwhite1 .bp1-background {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 48px;
-  width               : 182px;
+  height              : 100%;
+  width               : 100%;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -439,11 +526,11 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .composantpartheader .header .composanttextemenuheadermainwhite1 .menu {
+.bp1-mainpage .bp1-header .bp1-header1 .bp1-composanttextemenuheadermainwhite1 .bp1-menu {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 4px;
-  height              : auto;
-  width               : auto;
+  bottom              : 2.08%;
+  height              : 43px;
+  width               : 95.05%;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -456,24 +543,24 @@ div {
   text-align          : left;
   line-height         : 43.0px;
 }
-.mainpage .composantpartheader .header .composanttextemenuheadermainwhite2 {
+.bp1-mainpage .bp1-header .bp1-header1 .bp1-composanttextemenuheadermainwhite2 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 26px;
-  height              : 48px;
-  width               : 142px;
+  right               : 17.37%;
+  top                 : 26.00%;
+  height              : 48.00%;
+  width               : 9.52%;
   position            : absolute;
   margin              : 0;
-  left                : 1090px;
   overflow            : hidden;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .composantpartheader .header .composanttextemenuheadermainwhite2 .background {
+.bp1-mainpage .bp1-header .bp1-header1 .bp1-composanttextemenuheadermainwhite2 .bp1-background {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 48px;
-  width               : 142px;
+  height              : 100%;
+  width               : 100%;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -481,11 +568,11 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .composantpartheader .header .composanttextemenuheadermainwhite2 .menu {
+.bp1-mainpage .bp1-header .bp1-header1 .bp1-composanttextemenuheadermainwhite2 .bp1-menu {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 4px;
-  height              : auto;
-  width               : auto;
+  bottom              : 2.08%;
+  height              : 43px;
+  width               : 88.03%;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -498,20 +585,20 @@ div {
   text-align          : left;
   line-height         : 43.0px;
 }
-.mainpage .composanttexteheadlinemainheaderornage {
+.bp1-mainpage .bp1-composanttexteheadlinemainheaderornage {
   background-color    : rgba(255,255,255,0.0);
   top                 : 21px;
   height              : 58px;
   width               : 246px;
   position            : absolute;
   margin              : 0;
-  left                : 417px;
+  left                : 384px;
   overflow            : hidden;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .composanttexteheadlinemainheaderornage .background {
+.bp1-mainpage .bp1-composanttexteheadlinemainheaderornage .bp1-background {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 58px;
@@ -523,7 +610,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mainpage .composanttexteheadlinemainheaderornage .headline {
+.bp1-mainpage .bp1-composanttexteheadlinemainheaderornage .bp1-headline {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
