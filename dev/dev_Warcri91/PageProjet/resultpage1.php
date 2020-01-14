@@ -254,14 +254,12 @@ if(!empty($query))
 {
   for ($j=1; $j < $i ; $j++) { 
     echo "<tr>";
-    echo "<td>$id_utilisateur[$j] </td>";
-    echo "<td>$nom[$j] </td>";
-    echo "<td>$prenom[$j] </td>";
-    echo "<td>$laboratoire[$j] </td>";
-    echo "<td>$mail[$j] </td>";
-    echo "<td>$photo[$j]</td>";
-    echo "<td>$habilitation[$j] </td>";
-    echo "<td>$telephone[$j] </td>";
+    echo "<td class =\"Id\">$id_utilisateur[$j] </td>";
+    echo "<td class =\"nom\">$nom[$j] </td>";
+    echo "<td class =\"prenom\">$prenom[$j] </td>";
+    echo "<td class =\"labo\">$laboratoire[$j] </td>";
+    echo "<td class =\"mail\">$mail[$j] </td>";
+    
   
     echo "</tr>";
   }
@@ -499,7 +497,7 @@ if(!empty($query))
                             <div class="background1">
                             </div>
                             <div class="menu">
-                                Accueil
+                          <a href="mainpage.html">      Accueil </a>
                             </div>
                         </div>
                     </div>
