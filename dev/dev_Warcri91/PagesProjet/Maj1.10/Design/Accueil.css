@@ -1,0 +1,87 @@
+.test{
+		background-image: url('./img/mainpage-tobias-fischer-pkbzaheg2ng-unsplash.png');
+		background-repeat: no-repeat;
+		background-size: cover;
+}
+
+.contener{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+}
+#entete{
+	width: 100%;
+	min-width: 800px;
+	min-height: 50px;
+	background-color: rgba(0,48,85,1.0);
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+#corp{
+	width: 100%;
+	min-width: 800px;
+	min-height: 630px;
+	
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+	margin: auto;
+	display: flex;
+}
+#pied-de-page{
+	width: 100%;
+	height: 10px;
+	
+}
+.element-entete{
+	color: white;
+	text-align: center; 
+	margin: auto;
+	font-family: "Helvetica-Bold", Helvetica, Arial, serif;
+	font-size: 30px;
+}
+.element-entete:nth-child(1){
+	margin-left: 2px;
+}
+.element-entete:nth-child(2){
+	margin-left: 2px;
+}
+.element-entete:nth-child(7){
+	margin-right: 20px;
+}
+#recherche{
+	text-align: center;
+	margin: auto;
+	display: flex;
+}
+#element-recherche{
+	text-align: left;
+	background-color: rgba(0,82,145,1.0);
+	border: solid rgba(0,82,145,1.0);
+	height: 48px;
+	width: 640px;
+	border-radius: 24px;
+	font-size: 30px;
+	padding-left: 20px;
+	border-right-width: 20px;
+	display: flex;
+}
+#text-recherche{
+	background-color: rgba(0,82,145,1.0);
+	border: solid rgba(0,82,145,1.0);
+	font-size: 30px;
+	width: 90%;
+	color: white;
+}
+#submit-recherche{
+	background-color: rgba(0,82,145,1.0);
+	border: solid rgba(0,82,145,1.0);
+	background-image: url('./img/loupe.png');
+	background-repeat: no-repeat;
+	background-position:right;
+	background-size: 40px;
+	width: 10%;
+	height: 48px;
+	cursor: pointer;
+	margin-left: auto;}
