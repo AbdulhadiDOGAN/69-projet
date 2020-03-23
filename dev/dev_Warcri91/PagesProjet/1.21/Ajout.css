@@ -1,0 +1,94 @@
+body{
+	margin : 0px ;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+a:hover{
+    text-decoration: underline;
+}
+#contener-element{
+	text-align: center;
+	margin: auto;
+	display: flex;
+}
+.contener{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+}
+#entete{
+	width: 100%;
+	min-width: 800px;
+	min-height: 50px;
+	background-color: rgba(0,48,85,1.0);
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.element-entete{
+	color: white;
+	text-align: center; 
+	margin: auto;
+	font-family: "Helvetica-Bold", Helvetica, Arial, serif;
+	font-size: 30px;
+}
+.element-entete:nth-child(1){
+	margin-left: 2px;
+}
+.element-entete:nth-child(2){
+	margin-left: 2px;
+}
+.element-entete:nth-child(7){
+	margin-right: 20px;
+}
+#corp{
+	width: 100%;
+	min-width: 800px;
+	min-height: 1000px;
+	background-image: url('./img/mainpage-tobias-fischer-pkbzaheg2ng-unsplash.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+	margin: auto;
+	display: flex;
+}
+#pied-de-page{
+	width: 100%;
+	height: 10px;
+	
+}
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.alert {
+  padding: 20px;
+  background-color: #f44336;
+  color: white;
+  opacity: 1;
+  transition: opacity 0.6s;
+  margin-bottom: 15px;
+  width: 50%;
+  margin-left: 25%;
+}
+
+.alert.success {
+	background-color: #4CAF50;
+	margin-top: -50px;
+	margin-left: -20%;
+	width: 500px;
+}
+.alert.error {
+	background-color: #FF3333;
+	margin-bottom: 20px;
+	margin-left: -20%;
+	width: 500px;
+}
