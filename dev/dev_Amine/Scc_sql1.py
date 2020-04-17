@@ -18,7 +18,7 @@ class MaClasse():
 
     b = iter(liste_chercheur)
     print(liste_chercheur)
-    conn = mysql.connector.connect(host="localhost", user="root", password="Amine1996@@!", database="wikicomp20")
+    conn = mysql.connector.connect(host="localhost", user="root", password="MOTDEPASSE", database="wikicomp20")
     cursor = conn.cursor()
 
     while True:
